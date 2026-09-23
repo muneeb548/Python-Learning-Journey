@@ -1,0 +1,10 @@
+name = input("Enter your Name")
+age = int(input("Enter your Age"))
+city = input("Enter your City")
+cgpa = float(input("Enter your Cgpa"))
+print("=== Student Information ===")
+print("Name:",name)
+print("Age:",age)
+print("City:",city)
+print("CGPA:",cgpa)
+
