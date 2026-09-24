@@ -1,4 +1,4 @@
-# Day 08 - Taking User Input in Python
+# Taking User Input in Python
 
 Today I learned how to take user input in Python using the `input()` function.
 
