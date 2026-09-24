@@ -1,7 +1,0 @@
-print("Heloo World")
-print("5*7")
-print(5*7)
-print("My Name is Raja Muneeb Ahmed ")
-print("I am 22 Years old")
-print("Python is easy")
-print("I will learn python ")
