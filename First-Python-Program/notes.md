@@ -1,4 +1,4 @@
-# Day 03 - Our First Program
+# Our First Program
 
 Today I wrote my first Python program from scratch.
 
