@@ -1,4 +1,4 @@
-# Day 05 - Variables and Data Types
+# Variables and Data Types
 
 Today I learned about Variables and Data Types in Python.
 
