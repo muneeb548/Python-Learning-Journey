@@ -1,4 +1,4 @@
-# Day 01 - Python Basics
+# Python Basics
 
 ## Topics Learned
 - What is Programming?
