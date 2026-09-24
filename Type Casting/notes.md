@@ -1,4 +1,4 @@
-# Day 07 - Type Casting
+# Type Casting
 
 Today I learned about Type Casting and Type Conversion in Python.
 
