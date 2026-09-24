@@ -1,4 +1,4 @@
-# Day 04 - Comments and Escape Sequences
+# Comments and Escape Sequences
 
 Today I learned about Comments and Escape Sequences in Python.
 
