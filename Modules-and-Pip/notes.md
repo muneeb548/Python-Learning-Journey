@@ -1,4 +1,4 @@
-# Day 02 - Modules and pip in Python
+#  Modules and pip in Python
 
 ## Modules in Python
 
