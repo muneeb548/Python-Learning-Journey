@@ -1,4 +1,4 @@
-# Day 06 - Operators
+# Operators
 
 Today I learned about Operators in Python.
 
